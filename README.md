@@ -4,7 +4,7 @@ I am a full stack web and mobile developer working at Mobil-Inn. 💻 \
 In addition to that, I provide freelance Shopify/WordPress/Custom website development services.
 
 
-I'm a student in engineering school, Enssat (Lannion, France). 🎓 \
+I am an engineering student at Enssat (Lannion, France). 🎓 \
 I am passionate about the world of new technologies and have a great curiosity about a wide range of fields.
 
 I love to start, participate (and sometimes finish 😆) open-source projects in multiple domains. 😇 \
