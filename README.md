@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack web and mobile developer working at Mobil-Inn. 💻
+I am a full stack web and mobile developer working at Mobil-Inn. 💻 \
 In addition to that, I provide freelance Shopify/WordPress/Custom website development services.
 
 <br/>
@@ -10,7 +10,7 @@ I am passionate about the world of new technologies and have a great curiosity a
 
 <br/>
 
-I love to start, participate (and sometimes finish 😆) open-source projects in multiple domains. 😇 \\
+I love to start, participate (and sometimes finish 😆) open-source projects in multiple domains. 😇 \
 This simplifies my work and that of the community.
 
 ### Overview
@@ -23,7 +23,7 @@ This simplifies my work and that of the community.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
-</a>
+</a>\
 
 <br/>
 
