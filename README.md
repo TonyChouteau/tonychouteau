@@ -9,6 +9,12 @@ I feel passionate about the world of new technologies and I have a great curiosi
 I love starting, participating (and sometimes finishing 😆) open-source projects in multiple domains. 😇 \
 It simplifies my work and that of the community.
 
+I'm also a photographer in my spare time. 📸 \
+[View my instagram](https://www.instagram.com/tony.chouteau/)
+
+My portfolio : \
+[View my portfolio](https://www.tonychouteau.fr)
+
 ### Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
