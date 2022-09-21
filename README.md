@@ -22,40 +22,44 @@ This simplifies my work and that of the community.
 </a>
 
 <details>
-  
-  ## Web developpement
-  
-  - HTML
-  - CSS
-  - Javascript
-  
-  - React
-  - Vue.js
-  - Angular.js
+<summary>
+  More stuff about me
+</summary>
 
-  ## Other languages
   
-  - Python
-  - Java
-  - Go
-  
-  - Liquid (Shopify)
-  - Lua (Game/Modding)
-  
-  ## Database
-  
-  - MySQL
-  - PostgreSQL
-  - Oracle SQL
-  
-  - MongoDB
-  
-  ## Data file format
-  
-  - JSON
-  - CSV
-  - XLS
-  
+## Web developpement
+
+- HTML
+- CSS
+- Javascript
+
+- React
+- Vue.js
+- Angular.js
+
+## Other languages
+
+- Python
+- Java
+- Go
+
+- Liquid (Shopify)
+- Lua (Game/Modding)
+
+## Database
+
+- MySQL
+- PostgreSQL
+- Oracle SQL
+
+- MongoDB
+
+## Data file format
+
+- JSON
+- CSV
+- XLS
+
 </details>
 
 <!--
