@@ -21,6 +21,8 @@ This simplifies my work and that of the community.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
 </a>
 
+<br/>
+
 <details>
 <summary>
   More stuff about me
