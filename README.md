@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I am a full stack web and mobile developer working at Mobil-Inn. In addition to that, I provide freelance Shopify/WordPress/Custom website development services.
+
+I'm a student in engineering school, Enssat (Lannion, France). I am passionate about the world of new technologies and have a great curiosity about a wide range of fields.
+
+I love to start, participate (and sometimes finish xD) open-source projects in multiple domains, which allows to work in a better environment.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonychouteau&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
+</a>
+
 <!--
 **TonyChouteau/tonychouteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
