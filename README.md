@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I am a full stack web and mobile developer working at Mobil-Inn. 💻 \
-In addition to that, I provide freelance Shopify/WordPress/Custom website development services.
+I am a web and mobile developer working at Mobil-Inn. 💻 \
+Besides that, I offer freelance Shopify/WordPress/custom website development services.
 
+I study as an engineer student at Enssat (Lannion, France). 🎓 \
+I feel passionate about the world of new technologies and I have a great curiosity for very diverse fields.
 
-I am an engineering student at Enssat (Lannion, France). 🎓 \
-I am passionate about the world of new technologies and have a great curiosity about a wide range of fields.
-
-I love to start, participate (and sometimes finish 😆) open-source projects in multiple domains. 😇 \
-This simplifies my work and that of the community.
+I love starting, participating (and sometimes finishing 😆) open-source projects in multiple domains. 😇 \
+It simplifies my work and that of the community.
 
 ### Overview
 
