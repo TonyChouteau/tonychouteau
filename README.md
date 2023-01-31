@@ -25,7 +25,7 @@ My portfolio : \
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
-</a>\
+</a>
 
 <br/>
 
