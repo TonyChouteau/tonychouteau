@@ -18,13 +18,13 @@ My portfolio : \
 ### Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonychouteau&count_private=true&show_icons=true" />
+  <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=tonychouteau&count_private=true&show_icons=true" />
 </a>
 
 ### My skills
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
+  <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=tonychouteau&layout=compact&langs_count=8&hide=TeX,Jupyter%20Notebook,Processing" />
 </a>\
 
 <br/>
