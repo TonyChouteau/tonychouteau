@@ -15,6 +15,9 @@ I'm also a photographer in my spare time. 📸 \
 My portfolio : \
 [View my portfolio](https://www.tonychouteau.fr)
 
+My linkedin profile : \
+[View my Linkedin](https://www.linkedin.com/in/tony-chouteau/)
+
 ### Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
