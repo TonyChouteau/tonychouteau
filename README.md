@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a web and mobile engineer working at Mobil-Inn. 💻
+I am a web and mobile engineer working at Mobil-Inn. 💻 \
 In addition to that, I offer freelance Shopify/WordPress/custom website development services.
 
-I am now a graduated engineer from Enssat (Lannion, France). 🎓
+I am now a graduated engineer from Enssat (Lannion, France). 🎓 \
 I feel passionate about the world of new technologies, and I have a great curiosity for very diverse fields.
 
-I love starting, participating (and sometimes finishing 😆) open-source projects in multiple domains. 😇
+I love starting, participating (and sometimes finishing 😆) open-source projects in multiple domains. 😇 \
 It simplifies my work and that of the community.
 
 I'm also a photographer in my spare time. 📸 \
