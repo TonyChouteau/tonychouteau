@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 -->
 
 ## Project Tag
-finished
-in-progress
-paused
-stopped
+- finished
+- in-progress
+- paused
+- stopped
